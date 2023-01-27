@@ -22,3 +22,4 @@ first, second = result
 print(first)  # 👉️ 5
 print(second)  # 👉️ 10
 
+# https://bobbyhadz.com/blog/python-split-input
